@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HalloAndroid</string>
+    <string name="title">A door to a new life</string>
+    <string name="udacity">Udacity</string>
+    <string name="street">2465 Latham St</string>
+    <string name="town">Mountain View, CA 94043</string>
+    <string name="tel_no">650-555-5555</string>
+</resources>
